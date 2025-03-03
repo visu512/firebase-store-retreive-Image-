@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "350797263756",
+    "project_id": "crud-fb-bedb5",
+    "storage_bucket": "crud-fb-bedb5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350797263756:android:d1e761f7a821d01646dca9",
+        "android_client_info": {
+          "package_name": "com.music.musicify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCK3Fnk-Ls5vgMkdVt6QMqgds0zolpvXeM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
